@@ -1,0 +1,149 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1vw;
+}
+
+
+img.lock {
+    width: 24%;
+    padding-right: 7%;
+    padding-left: 2%;
+    padding-bottom: 12%;
+}
+
+.main {
+    display: flex;
+    padding-left: 12px;
+}
+
+.middlehead{
+    display: flex;
+    gap: 8%;
+    
+}
+.middlehead p{
+    font-size: 1.2vw;
+    padding-top: 5%;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+    padding-top:14vw;
+
+}
+.product {
+    padding-left: 17px;
+    width: 100%;
+}
+.details h3{
+    font-size: 2vw;
+}
+
+
+footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-left: 12%;
+}
+
+
+button {
+    width: 15%;
+    background: black;
+    color: aliceblue;
+}
+img{
+    width: 50vw;
+    border-radius: 10px;
+    padding-bottom: 15px;
+}
+
+
+img.mains {
+    width: 100%;   
+}
+
+.black {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 2.2vw;
+}
+
+.headings {
+    text-align: center;
+    font-size: 1.5vw;
+}
+.middle-order {
+    display: flex;
+    font-size: 1.5vw;
+    justify-content: center;
+    gap: 5%;
+}
+
+.middle-order-1 {
+    display: flex;
+    font-size: 1.5vw;
+    justify-content: left;
+    gap: 5%;
+}
+
+section.detailss {
+    padding: 0 32% 0 32%;
+}
+
+.total {
+    display: flex;
+    font-size: 1.5vw;
+    justify-content: right;
+    gap: 5%;
+    padding-right: 5%;
+}
+
+.fullname {
+    font-size: 1.5vw;
+}
+
+input[type="text"] {
+    width: 66%;
+    background-color: lightgray;
+    font-size: 1vw;
+    padding: 1%;
+}
+input[type="number"] {
+    width: 66%;
+    background: lightgray;
+    font-size: 1vw;
+    padding: 1%;
+}
+
+button.details-button {
+    font-size: 1.5vw;
+    width: 40%;
+    padding: 4% 8% 4% 8%;
+    margin-top: 7%;
+    margin-bottom: 8%;
+}
+
+
+
+.middle-para {
+    text-align: center;
+    font-size: 2vw;
+    padding-top: 5%;
+}
+
+.last {
+    text-align: center;
+    padding: 2%;
+}
+button.why {
+    width: 15%;
+    padding: 2% 3% 2% 3%;
+    font-size: 1vw;
+}
+
